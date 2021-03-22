@@ -10,6 +10,6 @@
 ### 性別 Male
 ### 國籍 中華民國
 
-![证件照](/passport.png)
+[证件照](/passport.png)
 
 
