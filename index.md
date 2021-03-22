@@ -10,6 +10,8 @@
 ### 性別 Male
 ### 國籍 中華民國
 
-![证件照](/daniel.jpg)
+
+
+<img src="./daniel.jpg" width = "300" height = "500" alt="图片名称" align=center />
 
 
