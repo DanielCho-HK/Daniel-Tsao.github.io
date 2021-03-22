@@ -12,6 +12,6 @@
 
 
 
-<img src="./daniel.jpg" width = "450" height = "500" alt="图片名称" align=center />
+<img src="./daniel.jpg" width = "489.6" height = "652.8" alt="图片名称" align=center />
 
 
