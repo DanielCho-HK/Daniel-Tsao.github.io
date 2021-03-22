@@ -20,128 +20,960 @@
 <img src="./daniel.jpg" width = "489.6" height = "652.8" alt="個人照片" align=center />
 -->
 ![证件照](/logo.svg)
+<!-- <!DOCTYPE html> -->
+<html class="js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths gr_weikaichen_github_io" lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
 
----
-layout: default
----
+	<title>Weikai Chen</title>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="./files/modernizr-2.5.3.min.js.download"></script>
 
-[Link to another page](./another-page.html).
+	<script src="./files/jquery.min.js.download"></script>
+	<script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
 
-There should be whitespace between paragraphs.
+	<script src="./files/spamspan.min.js.download"></script>
+	<script src="./files/prettify.js.download"></script>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+	<link rel="stylesheet" href="./files/social_widget.css">
+	<link rel="stylesheet" href="./files/glyphicons.css">
+	<link rel="stylesheet" href="./files/bootstrap.css">
+	<link rel="stylesheet" href="./files/bootstrap-responsive.css">
+	<link rel="stylesheet" href="./files/app.css">
+	<!-- <link rel="stylesheet" href="./files/font-awesome.min.css"> -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script type="text/javascript" src="./files/plugins.js.download"></script>
+	<script type="text/javascript" src="./files/main.js.download"></script>
+	<link rel="canonical" href="http://chenweikai.github.io/">
 
-# Header 1
+	<!-- to toggle text -->
+	<style type="text/css">
+		a.toggle_text_link {
+			cursor:pointer;
+		}
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+		pre.invisible_text {
+			display: none;
+		}
+	</style>
+	<script language="javascript" type="text/javascript">
+		function toggle(element) {
+			if(element.style.display=="block") {
+				element.style.display="none";
+			} else {
+				element.style.display="block";
+			}
+		}
+	</script>
+</head>
 
-## Header 2
+<body class="home page page-id-4 page-template-default top-navbar" data-gr-c-s-loaded="true">
+  <!--[if lt IE 7]><div class="alert">Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</div><![endif]-->
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+    <header id="banner" class="navbar navbar-fixed-top" role="banner">
+		<div class="navbar-inner">
+			<div class="container">
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<!---<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				-->
+				</a>
+				<a class="brand" href="http://chenweikai.github.io/">
+					Weikai Chen 
+				</a>
+				<nav id="nav-main" class="nav-collapse" role="navigation">
+					<ul class="nav">
+						<li class="menu-home active active"><a href="http://chenweikai.github.io/">Home</a></li>
+						<li class="menu-publications"><a href="./publication.html">Publications</a></li>
+						<!---<li class="menu-cv"><a href="http://herohuyongtao.github.io/cv/">CV</a></li>-->
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
 
-### Header 3
+	<div id="wrap" class="container" role="document">
+	<div id="content" class="row">
+			<div id="main" class="span8" role="main">
+				<div class="page-header">
+					<h1>Weikai Chen <img class="size-medium wp-image-712" style="margin-bottom: 5px;" src="./files/my_name.png" alt="Weikai Chen" width="100" /></h1>
+				</div>
+				
+				<p>
+					<img class=" wp-image-697 alignleft dropshadow" style="margin: 0 1.5em 1em 0; border: 1px solid #222;" src="./files/me_hku.png" alt="Portrait photo of Weikai Chen" width="180" height="240">
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+					I am a Senior Research Scientist at Tencent US. Previously, I was a postdoc and then a researcher at <a href="http://gl.ict.usc.edu/">Vision and Graphics Lab (VGL)@USC ICT</a> working with <a href="http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html"> Prof. Hao Li</a>. I got my PhD degree from the Department of Computer Science, The University of Hong Kong, under the supervision by <a href="http://i.cs.hku.hk/~wenping/">Prof. Wenping Wang</a>. During my Ph.D., I also had a wonderful time visiting <a href="http://www.antexel.com/sylefeb/research"> Dr. Sylvain Lefebvre</a> at <a href="https://www.inria.fr/en/centre/nancy"> Inria, Nancy</a>. Prior to that, I received both my Bachelor and Master degree in Electronic Engineering from <a href="http://www.tju.edu.cn/english/">Tianjin University</a>.  
+					<!--- have broad interests in geometric modeling, pattern/texture synthesis, computational fabrication, 3D object/human reconstruction and the interaction between deep learning and computer graphics. My recent research focuses on intelligent algorithms to digitize humans. -->
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+					<br>
+					<br>
+					My research lies in the interplay among computer graphics, computer vision and machine learning. In particular, I am interested in broad topics in image-based 3D reasoning and 3D deep learning, including 3D reconstruction of humans (face/hair/body), general objects and scenes, differentiable rendering and point cloud analysis.					
 
-#### Header 4
+					<br>
+					
+				
+				<div class="alignbottom visible-desktop">
+					<p>
+						<a href="http://www.tju.edu.cn/english/">
+							<img class="size-medium wp-image-712" style="margin-bottom: 0px;" src="./files/tju.png" alt="Tianjin University" width="40" />
+						</a>
+								
+						<a href="http://www.hku.hk/">
+							<img class="size-medium wp-image-712" style="margin-bottom: 0px;" src="./files/hku2.png" alt="The University of Hong Kong" width="130" />
+						</a>
+				
+						<a href="https://www.inria.fr/en/">
+							<img class="size-medium wp-image-712" style="margin-bottom: 0px;" src="./files/inria.png" alt="Inria" width="110" />
+						</a>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+						<a href="http://ict.usc.edu/">
+							<img class="size-medium wp-image-712" style="margin-bottom: 0px;" src="./files/uscict.jpg" alt="USC ICT" width="130" />
+						</a>
+						<a href="https://www.tencent.com/en-us/index.html">
+							<img class="size-medium wp-image-712" style="margin-bottom: 0px;" src="./files/tencent.png" alt="TecentUS" width="90" />
+						</a>
+				
+					</p>
+				</div>
+				<!---
+				</p>
+				<p>
+					</p><h3><i>Research Interests</i></h3>
+					<table border="0" cellpadding="0" style="border:0pt;margin-left:8%">
+						<tbody>
+							<tr>
+								<td style="border:0pt">
+									<p align="center" style="text-align:center">
+										<b>&nbsp;&nbsp;&nbsp;&nbsp;Computer Vision</b>
+									</p>
+								</td>
+								<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+								<td style="border:0pt">
+									<p align="center" style="text-align:center">
+										<b>&nbsp;&nbsp;&nbsp;&nbsp;Computer Graphics</b>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="border:0pt">
+									<ul>
+										<li style="text-align:left">Human Digitization</li>
+										<li style="text-align:left">Image-based Reconstruction</li>
+										<li style="text-align:left">Deep Learning</li>
+									</ul>
+								</td>
+								<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+								<td style="border:0pt">
+									<ul>
+										<li style="text-align:left">Texture/Pattern Synthesis</li>
+										<li style="text-align:left">Geometric Modeling</li>
+										<li style="text-align:left">Computational Fabrication</li>
+									</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				<p></p>
+				-->
+				<!--- News -->
+				<hr style="clear: both;">
+				<h2>News</h2>
+				<dl>
+				<ul>
+					<li>
+						<p>
+							<strong>03/2021</strong>: Three papers accepted to CVPR 2021.</strong></a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>12/2020</strong>: I am invited to serve as the Senior Program Committee of IJCAI 2021</strong>.</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>07/2020</strong>: One paper accepted to ECCV 2020 as <strong>Oral Presentation</strong>.</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>07/2020</strong>: Our extended work of SoftRas is accepted to <strong>IEEE TPAMI</strong>.</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>03/2020</strong>: One paper accepted to CVPR 2020 as <strong>Oral Presentation</strong>.</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>11/2019</strong>: Gave an invited talk at <a href="https://games-cn.org/">GAMES</a> web seminar. Slides can be found <a href="https://slides.games-cn.org/pdf/Games2019121%E9%99%88%E4%BC%9F%E5%87%AF.pdf">here.</a>
+						</p>
+					</li>	
+					<li>
+						<p>
+							<strong>09/2019</strong>: One paper accepted to NeurIPS 2019.</a>
+						</p>
+					</li>				
+					<li>
+						<p>
+							<strong>08/2019</strong>: I am invited to serve as the Program Committee of AAAI 2020, CVM 2020 and IEEE AIVR 2019.</a>
+						</p>
+					</li>
+					<!---
+					<li>
+						<p>
+							<strong>07/2019</strong>: Our ICCV'19 paper <a href="https://arxiv.org/pdf/1904.01786.pdf">SoftRas</a> received <strong>three Strong Accepts.</strong></a>
+						</p>
+					</li>
+					-->
+					<li>
+						<p>
+							<strong>07/2019</strong>: Three papers accepted to ICCV 2019! Two of them are selected as <strong>Oral Presentation</strong>.</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>06/2019</strong>: One paper accepted to UIST 2019.</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>06/2019</strong>: Our oral paper <a href="https://arxiv.org/abs/1901.00049">SiCloPe</a> is selected as <font color="#FF0000"><strong>CVPR Best Paper Finalists</strong></font>.</a>
+						</p>
+					</li>
+					<!---
+					<li>
+						<p>
+							<strong>03/2019</strong>: I am invited to serve as the Program Committee of SMI-FASE 2019.</a>
+						</p>
+					</li>
+				-->
+					<li>
+						<p>
+							<strong>03/2019</strong>: Our CVPR'19 paper  <a href="https://arxiv.org/abs/1901.00049">SiCloPe</a> is selected as <b>Oral Presentation</b>.</a>
+						</p>
+					</li>
+					<!---
+					<li>
+						<p>
+							<strong>02/2019</strong>: One paper accepted to IEEE VR 2019.</a>
+						</p>
+					</li>
+				-->
+					<li>
+						<p>
+							<strong>02/2019</strong>: One paper accepted to CVPR 2019.</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>08/2018</strong>: I am invited to serve as the International Program Committee of CVM 2019.</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>07/2018</strong>: Two papers accepted to ECCV 2018.</a>
+						</p>
+					</li>
+					<!---
+					<li>
+						<p>
+							<strong>07/2018</strong>: One paper accepted to BMVC 2018.
+						</p>
+					</li>
+					
+					<li>
+						<p>
+							<strong>04/2018</strong>: I am invited to serve as the International Program Committee of Pacific Graphics 2018.</a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>04/2018</strong>: One paper accepted to SIGGRAPH 2018.
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>03/2018</strong>: One paper accepted to CVPR 2018 (Spotlight Presentation). </a>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>07/2017</strong>: Two papers accepted to SIGGRAPH Asia 2017. </a>
+						</p>
+					</li>
+					-->
+				</ul>
+				</dl>
+				<!--- Selected Publications -->
+				<hr style="clear: both;">
+				<h2>Selected Publications (<a href="http://chenweikai.github.io/publication.html">Full List</a>)</h2>
+				<dl>
 
-##### Header 5
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/deep3Dprior.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Deep Optimized Priors for 3D Shape Modeling and Reconstruction</strong>
+						</a>
+						<br>
+						Mingyue Yang, Yuxin Wen, Weikai Chen, Yongwei Chen, Kui Jia
+						<br>
+						<em> <b>CVPR 2021</b></em>
+						<br>
+						<em>"a framework to improve the performance and generality of 3D shape prior"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="https://gorilla-lab-scut.github.io/Deep-Optimized-Priors/">project page</a></li>
+							<li><em class="fa fa-file"></em> <a href="https://arxiv.org/abs/2012.07241">paper</a></li>
+							<!--<li><em class="fa fa-file"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li> -->
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(deep3Dprior);">abstract</a>
+								<pre id="deep3Dprior" class="invisible_text">Many learning-based approaches have difficulty scaling to unseen data, as the generality of its learned prior is limited to the scale and variations of the training samples. This holds particularly true with 3D learning tasks, given the sparsity of 3D datasets available. We introduce a new learning framework for 3D modeling and reconstruction that greatly improves the generalization ability of a deep generator. Our approach strives to connect the good ends of both learning-based and optimization-based methods. In particular, unlike the common practice that fixes the pre-trained priors at test time, we propose to further optimize the learned prior and latent code according to the input physical measurements after the training. We show that the proposed strategy effectively breaks the barriers constrained by the pre-trained priors and could lead to high-quality adaptation to unseen data. We realize our framework using the implicit surface representation and validate the efficacy of our approach in a variety of challenging tasks that take highly sparse or collapsed observations as input. Experimental results show that our approach compares favorably with the state-of-the-art methods in terms of both generality and accuracy.</pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/equiPoint.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Equivariant Point Network for 3D Point Cloud Analysis</strong>
+						</a>
+						<br>
+						Haiwei Chen, Shichen Liu, Weikai Chen, Hao Li
+						<br>
+						<em> <b>CVPR 2021</b></em>
+						<br>
+						<em>"a new approach for extracting SE(3) equivariant feature for point clouds"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="http://chenweikai.github.io/publication.html">project page</a></li>
+							<li><em class="fa fa-file"></em> <a href="http://chenweikai.github.io/publication.html">paper</a></li>
+							<!--<li><em class="fa fa-file"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li> -->
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(equiPoint);">abstract</a>
+								<pre id="equiPoint" class="invisible_text">Features that are equivariant to a larger group of symmetries have been shown to be more discriminative and powerful in recent studies. However, higher-order equivariant features often come with an exponentiallygrowing computational cost. Furthermore, it remains relatively less explored how rotation-equivariant features can be leveraged to tackle 3D shape alignment tasks. While many past approaches have been based on either nonequivariant or invariant descriptors to align 3D shapes, we argue that such tasks may benefit greatly from an equivariant framework. In this paper, we propose an effective and practical SE(3) (3D translation and rotation) equivariant network for point cloud analysis that addresses both problems. First, we present SE(3) separable point convolution, a novel framework that breaks down the 6D convolution into two separable convolutional operators alternatively performed in the 3D Euclidean and SO(3) spaces. This significantly reduces the computational cost without compromising the performance. Second, we introduce an attention layer to effectively harness the expressiveness of the equivariant features. While jointly trained with the network, the attention layer implicitly derives the intrinsic local frame in the feature space and generate attention vectors that can be integrated in different alignment tasks. We evaluate our approach through extensive studies and visual interpretations. The empirical results demonstrate that our proposed model outperforms strong baselines in a variety of benchmarks.</pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
 
 
-### Definition lists can be used with HTML syntax.
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/3DCaricature.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction</strong>
+						</a>
+						<br>
+						Yuda Qiu, Xiaojie Xu, Linteng Qiu, Yan Pan, Yushuang Wu, Weikai Chen, Xiaoguang Han
+						<br>
+						<em> <b>CVPR 2021</b></em>
+						<br>
+						<em>"a large scale dataset for 3D caricature"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="https://qiuyuda.github.io/3DCaricShop/">project page</a></li>
+							<li><em class="fa fa-file"></em> <a href="https://arxiv.org/abs/2103.08204">paper</a></li>
+							<!--<li><em class="fa fa-file"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li> -->
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(cariShop);">abstract</a>
+								<pre id="cariShop" class="invisible_text">Caricature is an artistic representation that deliberately exaggerates the distinctive features of a human face to convey humor or sarcasm. However, reconstructing a 3D caricature from a 2D caricature image remains a challenging task, mostly due to the lack of data. We propose to fill this gap by introducing 3DCaricShop, the first large-scale 3D caricature dataset that contains 2000 high-quality diversified 3D caricatures manually crafted by professional artists. 3DCaricShop also provides rich annotations including a paired 2D caricature image, camera parameters, and 3D facial landmarks. To demonstrate the advantage of 3DCaricShop, we present a novel baseline approach for single-view 3D caricature reconstruction. To ensure a faithful reconstruction with plausible face deformations, we propose to connect the good ends of the detail-rich implicit functions and the parametric mesh representations. In particular, we first register a template mesh to the output of the implicit generator and iteratively project the registration result onto a pre-trained PCA space to resolve artifacts and self-intersections. To deal with the large deformation during non-rigid registration, we propose a novel view-collaborative graph convolution network (VC-GCN) to extract key points from the implicit mesh for accurate alignment. Our method is able to generate high-fidelity 3D caricature in a pre-defined mesh topology that is animation-ready. Extensive experiments have been conducted on 3DCaricShop to verify the significance of the database and the effectiveness of the proposed method. We will release 3DCaricShop upon publication.</pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/cloth.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images</strong>
+						</a>
+						<br>
+						Heming Zhu, Yu Cao, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, and Xiaoguang Han
+						<br>
+						<em> <b>ECCV 2020 (Oral Presentation)</b></em>
+						<br>
+						<em>"a large scale dataset and benchmark for real 3D garments"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/">project page</a></li>
+							<li><em class="fa fa-file"></em> <a href="https://arxiv.org/pdf/2003.12753.pdf">paper</a></li>
+							<!--<li><em class="fa fa-file"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li> -->
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(fashion3d);">abstract</a>
+								<pre id="fashion3d" class="invisible_text">High-fidelity clothing reconstruction is the key to achieving photorealism in a wide range of applications including human digitization, virtual try-on, etc. Recent advances in learning-based approaches have accomplished unprecedented accuracy in recovering unclothed human shape and pose from single images, thanks to the availability of powerful statistical models, e.g. SMPL [38], learned from a large number of body scans. In contrast, modeling and recovering clothed human and 3D garments remains notoriously difficult, mostly due to the lack of large-scale clothing models available for the research community. We propose to fill this gap by introducing Deep Fashion3D, the largest collection to date of 3D garment models, with the goal of establishing a novel benchmark and dataset for the evaluation of image-based garment reconstruction systems. Deep Fashion3D contains 2078 models reconstructed from real garments, which covers 10 different categories and 563 garment instances. It provides rich annotations including 3D feature lines, 3D body pose and the corresponded multi-view real images. In addition, each garment is randomly posed to enhance the variety of real clothing deformations. To demonstrate the advantage of Deep Fashion3D, we propose a novel baseline approach for single-view garment reconstruction, which leverages the merits of both mesh and implicit representations. A novel adaptable template is proposed to enable the learning of all types of clothing in a single network. Extensive experiments have been conducted on the proposed dataset to verify its significance and usefulness. We will make Deep Fashion3D publicly available upon publication</pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
 
-```
-The final element.
-```
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/softrasPami.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>A General Differentiable Mesh Renderer for Image-based 3D Reasoning</strong>
+						</a>
+						<br>
+						Shichen Liu, Tianye Li, Weikai Chen*, and Hao Li
+						<br>
+						<em> <b>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2020</b></em>
+						<br>
+						<em>"an extension of our ICCV'19 paper SoftRas"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="file:///home/weikai/Projects/chenweikai.github.io/publication.html">paper</a></li>
+							<!--<li><em class="fa fa-file"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li> -->
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(softrasPami);">abstract</a>
+								<pre id="softrasPami" class="invisible_text">Rendering bridges the gap between 2D vision and 3D scenes by simulating the physical process of image formation. By inverting such renderer, one can think of a learning approach to infer 3D information from 2D images. However, standard graphics renderers involve a fundamental step called rasterization, which prevents rendering to be differentiable. Unlike the state-of-the-art differentiable renderers, which only approximate the rendering gradient in the backpropagation, we propose a natually differentiable rendering framework that is able to (1) directly render colorized mesh using differentiable functions and (2) back-propagate efficient supervisions to mesh vertices and their attributes from various forms of image representations. The key to our framework is a novel formulation that views rendering as an aggregation function that fuses the probabilistic contributions of all mesh triangles with respect to the rendered pixels. Such formulation enables our framework to flow gradients to the occluded and distant vertices, which cannot be achieved by the previous state-of-the-arts. We show that by using the proposed renderer, one can achieve significant improvement in 3D unsupervised single-view reconstruction both qualitatively and quantitatively. Experiments also demonstrate that our approach can handle the challenging tasks in image-based shape fitting, which remain nontrivial to existing differentiable renders</pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
 
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/fh.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Intuitive, Interactive Beard and Hair Synthesis with Generative Models</strong>
+						</a>
+						<br>
+						Kyle Olszewski, Duygu Ceylan, Jun Xing, Jose I. Echevarria, Zhili Chen, Weikai Chen, Hao Li
+						<br>
+						<em> <b>CVPR 2020 (Oral Presentation)</b></em>
+						<br>
+						<em>"deep learning powered interactive facial hair editing system"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="https://arxiv.org/pdf/2004.06848.pdf">paper</a></li>
+							<!--<li><em class="fa fa-file"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li> -->
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(fh);">abstract</a>
+								<pre id="fh" class="invisible_text">We present an interactive approach to synthesizing real-istic variations in facial hair in images, ranging from subtleedits to existing hair to the addition of complex and chal-lenging  hair  in  images  of  clean-shaven  subjects.   To  cir-cumvent the tedious and computationally expensive tasks ofmodeling,  rendering and compositing the 3D geometry ofthe target hairstyle using the traditional graphics pipeline,we employ a neural network pipeline that synthesizes real-istic and detailed images of facial hair directly in the tar-get image in under one second.  The synthesis is controlledby simple and sparse guide strokes from the user definingthe  general  structural  and  color  properties  of  the  targethairstyle.  We qualitatively and quantitatively evaluate ourchosen method compared to several alternative approaches.We show compelling interactive editing results with a proto-type user interface that allows novice users to progressivelyrefine the generated image to match their desired hairstyle,and demonstrate that our approach also allows for flexibleand high-fidelity scalp hair synthesis.  </pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/diffImpField.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Learning to Infer Implicit Surfaces without 3D Supervision</strong>
+						</a>
+						<br>
+						Shichen Liu, Shunsuke Saito, Weikai Chen, Hao Li
+						<br>
+						<em> <b>NeurIPS 2019 </b></em>
+						<br>
+						<em>"the first differentiable renderer for implicit field"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="https://arxiv.org/abs/1911.00767">paper</a></li>
+							<!--<li><em class="fa fa-file"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li> -->
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(diffImpField);">abstract</a>
+								<pre id="diffImpField" class="invisible_text">Recent advances in 3D deep learning have shown that it is possible to train highly effective deep models for 3D shape generation, directly from 2D images. This is particularly interesting since the availability of 3D models is still limited compared to the massive amount of accessible 2D images, which is invaluable for training. The representation of 3D surfaces itself is a key factor for the quality and resolution of the 3D output. While explicit representations, such as point clouds and voxels, can span a wide range of shape variations, their resolutions are often limited. Mesh-based representations are more efficient but are limited by their ability to handle varying topologies. Implicit surfaces, however, can robustly handle complex shapes, topologies, and also provide flexible resolution control. We address the fundamental problem of learning implicit surfaces for shape inference without the need of 3D supervision. Despite their advantages, it remains nontrivial to (1) formulate a differentiable connection between implicit surfaces and their 2D renderings, which is needed for image-based supervision; and (2) ensure precise geometric properties and control, such as local smoothness. In particular, sampling implicit surfaces densely is also known to be a computationally demanding and very slow operation. To this end, we propose a novel ray-based field probing technique for efficient image-to-field supervision, as well as a general geometric regularizer for implicit surfaces, which provides natural shape priors in unconstrained regions. We demonstrate the effectiveness of our framework on the task of single-view image-based 3D shape digitization and show how we outperform state-of-the-art techniques both quantitatively and qualitatively. </pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/softRas.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Soft Rasterizer: A Differentiable Renderer for  Image-based 3D Reasoning</strong>
+						</a>
+						<br>
+						Shichen Liu, Tianye Li, Weikai Chen, Hao Li
+						<br>
+						<em> <b>ICCV 2019 (Oral Presentation)</b> <font color="#FF0000"><strong> - 3 Strong Accepts</strong></font></em>
+						<br>
+						<em>"a truly differentiable renderer for rasterization-based rendering"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="https://arxiv.org/pdf/1904.01786.pdf">paper</a></li>
+							<li><em class="fa fa-code"></em> <a href="https://github.com/ShichenLiu/SoftRas">code</a></li>
+							<li><em class="fa fa-file"></em> <a href="https://arxiv.org/pdf/1901.05567.pdf">old version</a></li>
+							<!--<li><em class="fa fa-file"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li> -->
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(singleViewMesh);">abstract</a>
+								<pre id="singleViewMesh" class="invisible_text">Rendering bridges the gap between 2D vision and 3D scenes by simulating the physical process of image formation. By inverting such renderer, one can think of a learning approach to infer 3D information from 2D images. However, standard graphics renderers involve a fundamental discretization step called rasterization, which prevents the rendering process to be differentiable, hence able to be learned. Unlike the state-of-the-art differentiable renderers, which only approximate the rendering gradient in the back propagation, we propose a truly differentiable rendering framework that is able to (1) directly render colorized mesh using differentiable functions and (2) back-propagate efficient supervision signals to mesh vertices and their attributes from various forms of image representations, including silhouette, shading and color images. The key to our framework is a novel formulation that views rendering as an aggregation function that fuses the probabilistic contributions of all mesh triangles with respect to the rendered pixels. Such formulation enables our framework to flow gradients to the occluded and far-range vertices, which cannot be achieved by the previous state-of-the-arts. We show that by using the proposed renderer, one can achieve significant improvement in 3D unsupervised single-view reconstruction both qualitatively and quantitatively. Experiments also demonstrate that our approach is able to handle the challenging tasks in image-based shape fitting, which remain nontrivial to existing differentiable renderers. </pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/undistortion.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Learning Perspective Undistortion of Portraits</strong>
+						</a>
+						<br>
+						Yajie Zhao*, Zeng Huang*, Tianye Li, Weikai Chen, Chloe LeGendre, Xinglei Ren, Ari Shapiro, and Hao Li 
+						<br>
+						<em> <b>ICCV 2019 (Oral Presentation)</b></em>
+						<br>
+						<em>"a method for recifying facial distortions in near-range portraits"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="https://arxiv.org/pdf/1905.07515.pdf">paper</a></li>
+							<!--<li><em class="fa fa-file"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li> -->
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(undistortion);">abstract</a>
+								<pre id="undistortion" class="invisible_text">Near-range portrait photographs often contain perspective distortion artifacts that bias human perception and challenge both facial recognition and reconstruction techniques. We present the first deep learning based approach to remove such artifacts from unconstrained portraits. In contrast to the previous state-of-the-art approach, our method handles even portraits with extreme perspective distortion, as we avoid the inaccurate and error-prone step of first fitting a 3D face model. Instead, we predict a distortion correction flow map that encodes a per-pixel displacement that removes distortion artifacts when applied to the input image. Our method also automatically infers missingfacial features, i.e. occluded ears caused by strong perspective distortion, with coherent details. We demonstrate that	our approach significantly outperforms the previous stateof-the-art both qualitatively and quantitatively, particularly for portraits with extreme perspective distortion or facial expressions. We further show that our technique benefits a number of fundamental tasks, significantly improving the accuracy of both face recognition and 3D reconstruction and enables a novel camera calibration technique from a single portrait. Moreover, we also build the first perspective portrait database with a large diversity in identities, expression and poses. </pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/topoMofy.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Deep Mesh Reconstruction from Single RGB Images via Topology Modification Networks</strong>
+						</a>
+						<br>
+						Junyi Pan, Xiaoguang Han, Weikai Chen, Jiapeng Tang and Kui Jia 
+						<br>
+						<em> <b>ICCV 2019</b></em>
+						<br>
+						<em>"a single-view mesh reconstruction approach that can handle objects with arbitrary topologies"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="https://arxiv.org/pdf/1909.00321.pdf">paper</a></li>
+							<!--<li><em class="fa fa-file"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li> -->
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(topoMofy);">abstract</a>
+								<pre id="topoMofy" class="invisible_text">Reconstructing the 3D mesh of a general object from a single image is now possible thanks to the latest advances of deep learning technologies. However, due to the nontrivial difficulty of generating a feasible mesh structure, the state-of-the-art approaches~\cite{wang2018pixel2mesh,kanazawa2018learning} often simplify the problem by learning the displacements of a template mesh that deforms it to the target surface.Though reconstructing a 3D shape with complex topo logy can be achieved by deforming multiple mesh patches, it remains difficult to stitch the results to ensure a high meshing quality. In this paper, we present an end-to-end single-view mesh reconstruction framework that is able to generate high-quality meshes with complex topology from a single genus-0 template mesh. The key to our approach is a novel progressive shaping framework that alternates between shape deformation and topology modifying. While a deformation network predicts the per-vertex translations that reduce the gap between the reconstructed mesh and the ground truth, a novel topology modification network is employed to prune the error-prone faces and refine the boundary conditions, enabling the evolution of topology. By iterating over the two procedures, one can progressively modify the mesh topology while achieving higher reconstruction accuracy. Extensive experiments demonstrate that our approach significantly outperforms the current state-of-the-art methods both qualitatively and quantitatively, especially for the shapes with complex topology. </pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./files/uist19.gif" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>HairBrush for Immersive Data-Driven Hair Modeling</strong>
+						</a>
+						<br>
+						Jun Xing, Koki Nagano, Weikai Chen, Haotian Xu, Li-Yi Wei, Jingwan Lu, Byungmoon Kim, Yajie Zhao, Hao Li
+						<br>
+						<em> <b>UIST 2019</b></em>
+						<br>
+						<em>"an immersive hair modeling tool in VR"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="http://chenweikai.github.io/publication.html">paper</a></li>
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(hairbrush);">abstract</a>
+								<pre id="hairbrush" class="invisible_text">While hair is an essential component of virtual humans, it is also one of the most challenging and time-consuming digital assets to create. Existing automatic techniques lack the generality and flexibility for users to create the exact intended hairstyles. Meanwhile, manual authoring interfaces often require considerable skills and experiences from character modelers, and are difficult to navigate for intricate 3D hair structures. We propose an interactive hair modeling system that can help create complex hairstyles that would otherwise take weeks or months with existing tools. Modelers, including novice users, can focus on the overall intended hairstyles and local hair deformations, as our system intelligently suggests the desired hair parts. Our method combines the flexibility of manual authoring and the convenience of data-driven automation. Since hair contains intricate 3D structures such as buns, knots, and strands, they are inherently challenging to create from scratch using traditional 2D interfaces. Our system provides a new 3D hair authoring interface for immersive interaction in virtual reality (VR). We use a strip-based representation, which is commonly adopted in real-time games due to rendering efficiency and modeling flexibility. The output strips can be converted to other hair formats such as strands. Users can draw high-level guide strips, from which our system predicts the most plausible hairstyles in the dataset via a trained deep neural network. Each hairstyle in our dataset is composed of multiple variations, serving as blendshapes to fit the user drawings via global blending and local deformation. The fitted hair models are visualized as interactive suggestions, that the user can select, modify, or ignore. We conducted a user study to confirm that our system can significantly reduce manual labor while improve the output quality for modeling a variety of hairstyles that are challenging to create using existing techniques. </pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/body19.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>SiCloPe: Silhouette-Based Clothed People</strong>
+						</a>
+						<br>
+						Ryota Natsume, Shunsuke Saito, Zeng Huang, <b>Weikai Chen</b>, Chongyang Ma, Hao Li, Shigeo Morishima
+						<br>
+						<em> <b>CVPR 2019 (Oral Presentation)</b><font color="#FF0000"><strong> - CVPR Best Paper Finalists</strong></font></em>
+						<br>
+						<em>"single-view based clothed human reconstruction"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="https://arxiv.org/pdf/1901.00049.pdf">paper</a></li>
+							<!--<li><em class="fa fa-file"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li> -->
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(singleViewBody);">abstract</a>
+								<pre id="singleViewBody" class="invisible_text">We introduce a new silhouette-based representation for modeling clothed human bodies using deep generative models. Our method can reconstruct a complete and textured 3D model of a person wearing clothes from a single input picture. Inspired by the visual hull algorithm, our implicit representation uses 2D silhouettes and 3D joints of a body pose to describe the immense shape complexity and variations of clothed people. Given a segmented 2D silhouette of a person and its inferred 3D joints from the input picture, we first synthesize consistent silhouettes from novel view points around the subject. The synthesized silhouettes, which are the most consistent with the input segmentation are fed into a deep visual hull algorithm for robust 3D shape prediction. We then infer the texture of the subject's back view using the frontal image and segmentation mask as input to a conditional generative adversarial network. Our experiments demonstrate that our silhouette-based model is an effective representation and the appearance of the back view can be predicted reliably using an image-to-image translation network. While classic methods based on parametric models often fail for single-view images of subjects with challenging clothing, our approach can still produce successful results, which are comparable to those obtained from multi-view input. </pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<!-- <li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li> -->
+						</ul>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/eccv18body.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Deep Volumetric Video From Very Sparse Multi-View Performance Capture</strong>
+						</a>
+						<br>
+						Zeng Huang, Tianye Li, <b>Weikai Chen</b>, Yajie Zhao, Jun Xing, Chloe LeGendre, Linjie Luo, Chongyang Ma, Hao Li
+						<br>
+						<em><b>ECCV 2018</b></em>
+						<br>
+						<em>"volumetric body reconstruction from highly sparse views"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="./papers/[ECCV18]Deep Volumetric Video From Very Sparse Multi-View Performance Capture.pdf">paper</a></li>
+							<li><em class="fa fa-video-camera"></em> <a href="https://www.youtube.com/watch?v=xjTVECIqZfc&feature=youtu.be">video</a></li>
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(zengBody);">abstract</a>
+								<pre id="zengBody" class="invisible_text">We present a deep learning based volumetric approach for performance capture using a passive and highly sparse multi-view capture system. State-of-the-art performance capture systems require either pre-scanned actors, large number of cameras or active sensors. In this work, we focus on the task of template-free, per-frame 3D surface reconstruction from as few as three RGB sensors, for which conventional visual hull or multi-view stereo methods fail to generate plausible results.We introduce a novel multi-view Convolutional Neural Network (CNN) that maps 2D images to a 3D volumetric field and we use this field to encode the probabilistic distribution of surface points of the captured subject. By querying the resulting field, we can instantiate the clothed human body at arbitrary resolutions. Our approach scales to different numbers of input images, which yield increased reconstruction quality when more views are used. Although only trained on synthetic data, our network can generalize to handle real footage from body performance capture. Our method is suitable for high-quality low-cost full body volumetric capture solutions, which are gaining popularity for VR and AR content creation. Experimental results demonstrate that our method is significantly more robust and accurate than existing techniques when only very sparse views are available. </pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<li><em class="fa fa-paper-plane"></em> <a href="./papers/[ECCV18]body supplementary.pdf">suppl.</a></li>
+						</ul>
+					</div>
+				</div>
+
+
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/eccv18hair.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Single-View Hair Reconstruction using Convolutional Neural Networks</strong>
+						</a>
+						<br>
+						Yi Zhou, Liwen Hu, Jun Xing, <b>Weikai Chen</b>, Han-Wei Kung, Xin Tong, Hao Li
+						<br>
+						<em><b>ECCV 2018</b></em>
+						<br>
+						<em>"deep learning based 3D hair reconstruction from a single image"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="https://arxiv.org/abs/1806.07467">paper</a></li>
+							<li><em class="fa fa-video-camera"></em> <a href="https://www.youtube.com/watch?v=MLnS-gTWc9w">video</a></li>
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(yi18hair);">abstract</a>
+								<pre id="yi18hair" class="invisible_text">We introduce a deep learning-based method to generate full 3D hair geometry from an unconstrained image. Our method can recover local strand details and has real-time performance. State-of-the-art hair modeling techniques rely on large hairstyle collections for nearest neighbor retrieval and then perform ad-hoc refinement. Our deep learning approach, in contrast, is highly efficient in storage and can run 1000 times faster while generating hair with 30K strands. The convolutional neural network takes the 2D orientation field of a hair image as input and generates strand features that are evenly distributed on the parameterized 2D scalp. We introduce a collision loss to synthesize more plausible hairstyles, and the visibility of each strand is also used as a weight term to improve the reconstruction accuracy. The encoder-decoder architecture of our network naturally provides a compact and continuous representation for hairstyles, which allows us to interpolate naturally between hairstyles. We use a large set of rendered synthetic hair models to train our network. Our method scales to real images because an intermediate 2D orientation field, automatically calculated from the real image, factors out the difference between synthetic and real hairs. We demonstrate the effectiveness and robustness of our method on a wide range of challenging real Internet pictures and show reconstructed hair sequences from videos. </pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<li><em class="fa fa-newspaper-o"></em> <a href="https://www.technologyreview.com/s/611569/the-best-of-the-physics-arxiv-week-ending-june-30-2018/">MIT Tech Review</a></li>
+							<li><em class="fa fa-newspaper-o"></em> <a href="https://news.developer.nvidia.com/ai-can-render-hair-in-3d-in-real-time/">Nvidia Review</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/sig18face.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>High-Fidelity Facial Reflectance and Geometry Inference From an Unconstrained Image</strong>
+						</a>
+						<br>
+						Shugo Yamaguchi*, Shunsuke Saito*, Koki Nagano, Yajie Zhao, <b>Weikai Chen</b>, Shigeo Morishima, Hao Li
+						<br>
+						<em><b>SIGGRAPH 2018</b></em>
+						<br>
+						<em>"inference of complete face reflectance maps from a single unconstrained image"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="./papers/[SIG18]HFFRGIFUI.pdf">paper</a></li>
+							<li><em class="fa fa-video-camera"></em> <a href="https://www.youtube.com/watch?v=khNWYKfZwjQ">video</a></li>
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(shugo18face);">abstract</a>
+								<pre id="shugo18face" class="invisible_text">We present a deep learning-based technique to infer high-quality facial reflectance and geometry given a single unconstrained image of the subject, which may contain partial occlusions and arbitrary illumination conditions. The reconstructed high-resolution textures, which are generated in only a few seconds, include high-resolution skin surface reflectance maps, representing both the diffuse and specular albedo, and medium- and highfrequency displacement maps, thereby allowing us to render compelling digital avatars under novel lighting conditions. To extract this data, we train our deep neural networks with a high-quality skin reflectance and geometry database created with a state-of-the-art multi-view photometric stereo system using polarized gradient illumination. Given the raw facial texture map extracted from the input image, our neural networks synthesize complete reflectance and displacement maps, as well as complete missing regions caused by occlusions. The completed textures exhibit consistent quality throughout the face due to our network architecture, which propagates texture features from the visible region, resulting in high-fidelity details that are consistent with those seen in visible regions. We describe how this highly underconstrained problem is made tractable by dividing the full inference into smaller tasks, which are addressed by dedicated neural networks. We demonstrate the effectiveness of our network design with robust texture completion from images of faces that are largely occluded. With the inferred reflectance and geometry data, we demonstrate the rendering of high-fidelity 3D avatars from a variety of subjects captured under different lighting conditions. In addition, we perform evaluations demonstrating that our method can infer plausible facial reflectance and geometric details comparable to those obtained from high-end capture devices, and outperform alternative approaches that require only a single unconstrained input image.</pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<li><em class="fa fa-paper-plane"></em> <a href="./papers/[SIG18]suppl.pdf">suppl.</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/mesoscopic.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Mesoscopic Facial Geometry inference Using Deep Neural Networks</strong>
+						</a>
+						<br>
+						Loc  Huynh, <b>Weikai Chen</b>, Shunsuke Saito, Jun Xing, Koki Nagano, Andrew Jones, Hao Li, Paul Debevec
+						<br>
+						<em><b>CVPR 2018 (Spotlight Presentation) </b></em>
+						<br>
+						<em>"pore-level facial geometry inference from a single image"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-file"></em> <a href="./papers/[CVPR18]Mesoscopic_Facial_Geometry.pdf">paper</a></li>
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(loc18face);">abstract</a>
+								<pre id="loc18face" class="invisible_text">We present a learning-based approach for synthesizing facial geometry at medium and fine scales from diffusely-lit facial texture maps. When applied to an image sequence, the synthesized detail is temporally coherent. Unlike current state-of-the-art methods [17, 5], which assume ”dark is deep”, our model is trained with measured facial detail collected using polarized gradient illumination in a Light Stage [20]. This enables us to produce plausible facial detail across the entire face, including where previous approaches may incorrectly interpret dark features as concavities such as at moles, hair stubble, and occluded pores. Instead of directly inferring 3D geometry, we propose to encode fine details in high-resolution displacement maps which are learned through a hybrid network adopting the state-of-the-art image-to-image translation network [29] and super resolution network [43]. To effectively capture geometric detail at both mid- and high frequencies, we factorize the learning into two separate sub-networks, enabling the full range of facial detail to be modeled. Results from our learning-based approach compare favorably with a high-quality active facial scanhening technique, and require only a single passive lighting condition without a complex scanning setup. </pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/siga17decor.jpg" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Fabricable Tile Decors</strong>
+						</a>
+						<br>
+						<b>Weikai Chen</b>, Yuexin Ma, Sylvain Lefebvre, Shiqing Xin, Jonàs Martínez and Wenping Wang
+						<br>
+						<em><b>SIGGRAPH Asia 2017</b></em>
+						<br>
+						<em>"a *magic* way to fabricate curved surfaces flatly"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-home"></em> <a href="./papers/weikai_siga17_tile">project page</a></li>
+							<li><em class="fa fa-file"></em> <a href="./papers/weikai_siga17_tile.pdf">paper</a></li>
+							<li><em class="fa fa-video-camera"></em> <a href="https://www.youtube.com/watch?v=WgXxjnD9BA4">video</a></li>		
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(weikaiDecor);">abstract</a>
+								<pre id="weikaiDecor" class="invisible_text">Recent advances in 3D printing have made it easier to manufacture customized objects by ordinary users in an aﬀordable manner, and therefore spurred high demand for more accessible methods for designing and fabricating 3D objects of various shapes and functionalities. In this paper we present a novel approach to model and fabricate surface-like objects composed of connected tiles, which can be used as objects in daily life, such as ornaments, covers, shades or handbags. Our method is designed to maximize the efciency and ease of fabrication. Given a base surface and a set of tile elements as user input, our method generates a tight packing of connected tiles on the surface. We apply an efcient and tailored optimization scheme to pack the tiles on the base surface with fabrication constraints. Then, to facilitate the fabrication process, we use a novel method based on minimal spanning tree to decompose the set of connected tiles into several connected patches. Each patch is articulated and can be developed into a plane. This allows printing with an inexpensive FDM printing process without requiring any supporting structures, which are often troublesome to remove. Finally, the separately printed patches are reassembled to form the fnal physical object, a shell surface composed of connected user-specifed tiles that take the shape of the input base surface. We demonstrate the utility of our method by modeling and fabricating a variety of objects, from simple decorative spheres to moderately complex surfaces, such as a handbag and a teddy bear. Several user controls are available, to distribute diﬀerent type of tiles over the surface and locally change their scales and orientations</pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/tensor.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Tensor Field Design in Volumes</strong>
+						</a>
+						<br>
+						Jonathan Palacios, Lawrence Roy, Prashant Kumar, Chen-Yuan Hsu, <b>Weikai Chen</b>, Chongyang Ma, Li-Yi Wei, Eugene Zhang
+						<br>
+						<em><b>SIGGRAPH Asia 2017</b></em>
+						<br>
+						<em>"the first framework to design and edit 3D tensors"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-home"></em> <a href="http://www.chongyangma.com/publications/tf/index.html">project page</a></li>
+							<li><em class="fa fa-file"></em> <a href="./papers/2017_tf_preprint.pdf">paper</a></li>
+							<li><em class="fa fa-video-camera"></em> <a href="https://www.youtube.com/watch?v=WgXxjnD9BA4">video</a></li>		
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(siga17tensor);">abstract</a>
+								<pre id="siga17tensor" class="invisible_text">3D tensor field design is important in several graphics applications such as procedural noise, solid texturing, and geometry synthesis. Different fields can lead to different visual effects. The topology of a tensor !eld, such as degenerate tensors, can cause artifacts in these applications. Existing 2D tensor field design systems cannot be used to handle the topology of a 3D tensor field. In this paper, we present to our knowledge the first 3D tensor !eld design system. At the core of our system is the ability to edit the topology of tensor !elds. We demonstrate the power of our design system with applications in solid texturing and geometry synthesis.</pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+						</ul>
+					</div>
+				</div>
+
+
+				<div class="row">
+					<div class="span2" style="margin-bottom: 2em;">
+						<a href="http://chenweikai.github.io/publication.html">
+							<img class="dropshadow pull-right" alt="" src="./figures/chen_sig16.png" width="150" height="115">
+						</a>
+					</div>
+					<div class="span6">
+						<a href="http://chenweikai.github.io/publication.html">
+							<strong>Synthesis of Filigrees for Digital Fabrication</strong>
+						</a>
+						<br>
+						<b>Weikai Chen</b>, Xiaolong Zhang, <a href="https://sites.google.com/site/xinshiqing/">Shiqing Xin</a>, <a href="http://xiayang.weebly.com/">Yang Xia </a>, <a href="http://www.antexel.com/sylefeb/research">Sylvain Lefebvre</a> and <a href="http://i.cs.hku.hk/~wenping/">Wenping Wang</a>
+						<br>
+						<em><b>SIGGRAPH 2016</b></em>
+						<br>
+						<em>"how to make example-based 3D jewelry"</em>
+						<br>
+						<ul class="inline middot">
+							<li><em class="fa fa-home"></em> <a href="http://chenweikai.github.io/publication.html">project page</a></li>
+							<li><em class="fa fa-file"></em> <a href="./papers/weikai_sig16_filigree_final.pdf">paper</a></li>
+							<li><em class="fa fa-video-camera"></em> <a href="https://www.youtube.com/watch?v=clzlyXEzoNw">video</a></li>		
+							<li>
+								<em class="fa fa-bars"></em>
+								<a class="toggle_text_link" onclick="javascript:toggle(weikai16filigree);">abstract</a>
+								<pre id="weikai16filigree" class="invisible_text">Filigrees are thin patterns found in jewelry, ornaments and lace fabrics. They are often formed of repeated base elements manually composed into larger, delicate patterns. Digital fabrication simplifies the process of turning a virtual model of a filigree into a physical object. However, designing a virtual model of a filigree remains a time consuming and challenging task. The difficulty lies in tightly packing together the base elements while covering a target surface. In addition, the filigree has to be well connected and sufficiently robust to be fabricated. We propose a novel approach automating this task. Our technique covers a target surface with a set of input base elements, forming a filigree strong enough to be fabricated. We exploit two properties of filigrees to make this possible. First, as filigrees form delicate traceries they are well captured by their skeleton. This affords for a simpler definition of operators such as matching and deformation. Second, instead of seeking for a perfect packing of the base elements we relax the problem by allowing appearance preserving partial overlaps. We optimize a filigree by a stochastic search, further improved by a novel boosting algorithm that records and reuses good configurations discovered during the process. We illustrate our technique on a number of challenging examples reproducing filigrees on large objects, which we manufacture by 3D printing. Our technique affords for several user controls, such as the scale and orientation of the elements.</pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+							</li>
+							<li><em class="fa fa-newspaper-o"></em> <a href="https://www.youtube.com/watch?v=cVZzkSaxKmY">two-minute paper</a></li>
+						</ul>
+					</div>
+				</div>
+
+				</dl>
+			
+
+			</div><!-- /#main -->
+
+			<aside id="sidebar" class="span4" role="complementary">
+				<div class="well">
+					<section id="text-2" class="widget-1 widget-first widget widget_text">
+						<div class="widget-inner">
+							<h3>Contact info</h3>
+							<div class="textwidget"><h6>Email</h6>
+								<a class="email" href="mailto:chenwk891@gmail.com">chenwk891@gmail.com</a>
+								<h6>Address</h6>
+								<i>
+									12015 Waterfront Drive, Los Angeles, <br>
+									CA, U.S.A
+								</i>
+							</div>							
+						</div>
+					</section>
+					<br>
+					<section id="text-2" class="widget-1 widget-first widget widget_text">
+						<div class="widget-inner">
+							<h3> <a href="./files/WeikaiChen_CV.pdf"> Curriculum Vitae </a></h3>
+						</div>
+					</section>
+					<br>
+					<section id="social-widget-2" class="widget-3 widget Social_Widget">
+						<div class="widget-inner">
+							<h3>Follow me</h3>
+							<div class="socialmedia-buttons smw_left">
+								<a href="https://scholar.google.com/citations?user=Ec6QLl0AAAAJ&hl=en" rel="publisher" target="_blank">
+									<img width="32" height="32" src="./files/scholar.png" alt="Follow me on Google Scholar" title="Follow me on Google Scholar" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade">
+								</a>
+								<a href="https://github.com/chenweikai" rel="nofollow" target="_blank">
+									<img width="32" height="32" src="./files/github.png" alt="Follow me on GitHub" title="Follow me on GitHub" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade">
+								</a>					
+								<a href="https://www.linkedin.com/in/weikai-chen-94169779/" rel="nofollow" target="_blank">
+									<img width="32" height="32" src="./files/linkedin.png" alt="Follow me on LinkedIn" title="Follow me on LinkedIn " style="opacity: 0.8; -moz-opacity: 0.8;" class="fade">
+								</a>
+								<a href="https://www.facebook.com/chen.weikai.3" rel="nofollow" target="_blank">
+									<img width="32" height="32" src="./files/facebook.png" alt="Follow me on Facebook" title="Follow me on Facebook" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade">
+								</a>
+
+								<!-- site credits -->
+								<br><br>
+								<em class="fa fa-credit-card"></em> <a class="toggle_text_link" onclick="javascript:toggle(site_credits);">Site Credits</a>
+								<pre id="site_credits" class="invisible_text">
+This site was built using <a href="http://twitter.github.io/bootstrap/">Bootstrap</a>, a front-end framework for web development. <br /><br />The style of this site is inspired by <a href="http://richardt.name/">Dr. Christian Richardt</a>'s and <a href="http://herohuyongtao.github.io/">Dr. Yongtao Hu</a>'s personal website.</pre> <!-- put </pre> on this line to avoid new unwanted line breaks after bibtex -->
+								
+							</div>
+						</div>
+					</section>
+				</div>
+			</aside><!-- /#sidebar -->
+		</div><!-- /#content -->
+	</div><!-- /#wrap -->
+
+	<footer id="content-info" class="container" role="contentinfo">
+		<table width="100%">
+			<tbody><tr>
+				<td>
+					<p class="copy"><small>© 2018 Weikai Chen</small></p>
+				</td>
+				<td style="text-align:right">
+					<!--<script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=0cpr08658kr&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>-->
+					<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=57g8g4mig5b&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0" async="async"></script>
+				
+				</td>
+			</tr>
+		</tbody></table>
+	</footer>
+
+	<!-- From http://stackoverflow.com/a/11668413/72470 
+	<script>
+	  !function ($) {
+		$(function(){
+		  window.prettyPrint && prettyPrint()
+		})
+	  }(window.jQuery)
+	</script>
+	-->	
+	
+
+
+<div id="cntvlive2-is-installed"></div></body></html>
