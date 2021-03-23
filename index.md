@@ -1,36 +1,17 @@
-
-
-# 這個是Daniel的個人主頁，正在搭建中
-
-
-
-
-## 個人信息
-### 姓名 Daniel Yu Cho
-
-
-## 研究經歷
-
-### 綜合業務網理論與關鍵技術國家重點實驗室                      
-### 2017.9 - 2020.6
-
-### 深圳市大數據研究院                                           
-### 2019.3 - 2019.12   
-
-### Laboratory for Artificial Intelligence in Design (AiDLab)    
-### 2021.11 - present
-
-
-
-
-
+---
+layout: article
 title: Daniel Cho (曹宇)
+aside:
+  toc: true
+---
 
 
 <div class="gird-containre">
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-auto" markdown="1">
-I am a research scientist in AiDLab, Hong Kong.
+I am a Research Scientist in [Artificial Intelligence in Design (AiDLab)](https://cvlab.epfl.ch), [EPFL](https://www.epfl.ch/), Hong Kong,
+working with Prof. [Calvin Wong](https://www.polyu.edu.hk/itc/en/people/academic-staff/?itcsid=4) and Dr.Aemika Zou. The research areas that I involved and
+interested include 3D Vision, Generative Algorithm and Fashion. In 2020, I completed my Mphil. degree from Xidian University under the supervision of Prof. [Rui Song](https://web.xidian.edu.cn/songrui/index.html). 
 
 
 [GoogleScholar](https://scholar.google.com.hk/citations?user=jkEWQIYAAAAJ&hl=zh-CN), [GitHub](https://github.com/DanielCho-HK)
