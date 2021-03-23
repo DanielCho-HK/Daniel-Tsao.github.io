@@ -1,6 +1,6 @@
 # welcome to my homepage
 ## Daniel Cho 
-![Image](./signature.png){:.border.rounded}
+![Image](./signature.png)
 
 
 <div class="gird-containre">
