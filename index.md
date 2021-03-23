@@ -22,9 +22,7 @@
 
 
 
-<img src="./daniel.jpg" width = "489.6" height = "652.8" alt="個人照片" align=center />
 
-![证件照](/logo.svg)
 ---
 layout: article
 title: Daniel Cho (曹宇)
@@ -43,7 +41,7 @@ I am a research scientist in AiDLab, Hong Kong.
 [choyudaniel@gmail.com](mailto:choyudaniel@gmail.com)
 </div>
 <div class="cell cell--12 cell--md-4 " markdown="1">
-![Image](./me.jpg){:.border.rounded}
+![Image](./daniel.jpg){:.border.rounded}
 </div>
 </div>
 </div>
