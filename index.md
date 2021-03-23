@@ -20,6 +20,7 @@ I am a Research Scientist in [Artificial Intelligence in Design (AiDLab)] in Hon
 
 # News
 * `11.2020` I join Laboratory for Artificial Intelligence in Design (AiDLab) in Hong Kong as a Research Scientist.
+* `10.2020` We receive the [ChinaGraph Best Dataset Award](https://sse.cuhk.edu.cn/en/article/755) for "DeepFashion3D".
 * `07.2020` I pass the oral defence of my Master dissertation.
 * `04.2020` Our paper is accepted to ECCV 2020.
 * `03.2019` I join The Chinese University of Hong Kong(Shenzhen) [SRIBD](http://www.sribd.cn/index.php/cn/) as a Research Assistant.
