@@ -1,9 +1,5 @@
----
-layout: article
-title: Daniel Cho (曹宇)
-aside:
-  toc: true
----
+# welcome to my home page
+## Daniel Cho
 
 
 <div class="gird-containre">
