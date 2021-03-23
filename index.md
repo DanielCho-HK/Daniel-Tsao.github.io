@@ -24,11 +24,11 @@ I am a Research Scientist in [Artificial Intelligence in Design (AiDLab)]Hong Ko
 # News
 * `11.2020` I join Laboratory for Artificial Intelligence in Design (AiDLab) in Hong Kong as a Research Scientist.
 * `07.2020` I pass the oral defence of my Master dissertation.
-* `03.2020` Our paper is accepted to ECCV 2020.
+* `04.2020` Our paper is accepted to ECCV 2020.
 * `03.2019` I join The Chinese University of Hong Kong(Shenzhen) [SRIBD](http://www.sribd.cn/index.php/cn/) as a Research Assistant.
 * `12.2016` I join [State Key Laboratory of Integrated Services Networks](https://isn.xidian.edu.cn/index.htm) as a postgraduate student(Mphil).
 * `11.2015` I win the 'China National Scholarship'.
 
 
 # Publications
-* Heming Zhu, ***Yu Cao***, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, and Xiaoguang Han. Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images. ECCV 2020 (Oral Presentation)  [\[Project\]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
+* Heming Zhu, **Yu Cao**, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, and Xiaoguang Han. Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images. ECCV 2020 (Oral Presentation)  [\[Project\]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
