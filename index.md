@@ -1,6 +1,6 @@
 # welcome to my homepage
 ## Daniel Cho 
-![Image](./signature.png)
+<img src="./signature.png" width = "171.2" height = "107.2" alt="signature" align=center />
 
 
 <div class="gird-containre">
