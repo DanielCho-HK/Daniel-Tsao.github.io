@@ -13,7 +13,7 @@ I am a Research Scientist in [Artificial Intelligence in Design (AiDLab)] in Hon
 [choyudaniel@gmail.com](mailto:choyudaniel@gmail.com)
 
 
-![Image](./aidlab.png){:.border.rounded}
+![Image](./aidlab.png)
 
 # News
 * `11.2020` I join Laboratory for Artificial Intelligence in Design (AiDLab) in Hong Kong as a Research Scientist.
