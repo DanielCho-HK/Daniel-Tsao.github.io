@@ -9,9 +9,11 @@ I am a Research Scientist in [Artificial Intelligence in Design (AiDLab)] in Hon
   
   
 [GoogleScholar](https://scholar.google.com.hk/citations?user=jkEWQIYAAAAJ&hl=zh-CN)
+</div>
 [GitHub](https://github.com/DanielCho-HK)
+</div>
 [choyudaniel@gmail.com](mailto:choyudaniel@gmail.com)
-
+</div>
 
 ![Image](./aidlab.png)
 
