@@ -11,12 +11,9 @@ I am a Research Scientist in [Artificial Intelligence in Design (AiDLab)] in Hon
 [GoogleScholar](https://scholar.google.com.hk/citations?user=jkEWQIYAAAAJ&hl=zh-CN), [GitHub](https://github.com/DanielCho-HK)
 
 [choyudaniel@gmail.com](mailto:choyudaniel@gmail.com)
-</div>
-<div class="cell cell--12 cell--md-4 " markdown="1">
+
+
 ![Image](./aidlab.png){:.border.rounded}
-</div>
-</div>
-</div>
 
 # News
 * `11.2020` I join Laboratory for Artificial Intelligence in Design (AiDLab) in Hong Kong as a Research Scientist.
