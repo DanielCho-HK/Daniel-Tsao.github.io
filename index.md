@@ -44,6 +44,11 @@ I am a research scientist in AiDLab, Hong Kong.
 </div>
 
 # News
+* `11.2020` I join Laboratory for Artificial Intelligence in Design (AiDLab) in Hong Kong as a Research Scientist.
+* `07.2020` I pass the oral defence of my Master dissertation.
+* `03.2020` Our paper is accepted to ECCV 2020.
+* `03.2019` I join Chinese University of Hong Kong(Shen Zhen) SRIBD as a Research Assistant.
+* `11.2015` I win the 'China National Scholarship'.
 
 
 # Publications
