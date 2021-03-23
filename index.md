@@ -1,6 +1,6 @@
 # welcome to my homepage
 ## Daniel Cho 
-<img src="./signature.png" width = "149.8" height = "93.8" alt="signature" align=center />
+<img src="./signature.png" width = "128.4" height = "80.4" alt="signature" align=center />
 
 
 <div class="gird-containre">
