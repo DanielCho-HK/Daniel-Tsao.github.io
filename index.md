@@ -16,7 +16,7 @@ I am a Research Scientist in [Artificial Intelligence in Design (AiDLab)]Hong Ko
 [choyudaniel@gmail.com](mailto:choyudaniel@gmail.com)
 </div>
 <div class="cell cell--12 cell--md-4 " markdown="1">
-![Image](./logo.png){:.border.rounded}
+![Image](./logo.svg){:.border.rounded}
 </div>
 </div>
 </div>
