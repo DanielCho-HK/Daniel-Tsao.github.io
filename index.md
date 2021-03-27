@@ -5,7 +5,7 @@
 <div class="gird-containre">
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-auto" markdown="1">
-I am a Research Scientist in [Laboratory for Artificial Intelligence in Design (AiDLab)](https://www.polyu.edu.hk/cpa/excel/tc/201902/highlight/h1/index.html) Hong Kong, working with Prof. [Calvin Wong](https://www.polyu.edu.hk/itc/en/people/academic-staff/?itcsid=4) and Dr. Aemika Zou. The research areas that I involved and interested include 3D Vision, Generative Algorithm and Fashion. In 2020, I completed my Mphil. degree from Xidian University under the supervision of Prof. [Rui Song](https://web.xidian.edu.cn/songrui/index.html). During my Mphil, I have visited The Chinese University of Hong Kong (Shenzhen) and Shenzhen Research Institute of Big Data as a visiting student supervised by Dr. [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/) 
+I am a Research Scientist in [Laboratory for Artificial Intelligence in Design (AiDLab)](https://www.polyu.edu.hk/cpa/excel/tc/201902/highlight/h1/index.html) Hong Kong, working with Prof. [Calvin Wong](https://www.polyu.edu.hk/itc/en/people/academic-staff/?itcsid=4) and Dr. Aemika Zou. The research areas that I involved and interested include 3D Vision, Generative Algorithm and Fashion. In 2020, I completed my Mphil. degree from Xidian University under the supervision of Prof. [Rui Song](https://web.xidian.edu.cn/songrui/index.html). During my Mphil, I have visited the Chinese University of Hong Kong (Shenzhen) and Shenzhen Research Institute of Big Data as a visiting student supervised by Dr. [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/) 
   
 
 
@@ -19,13 +19,13 @@ I am a Research Scientist in [Laboratory for Artificial Intelligence in Design (
 ![Image](./aidlab.png)
 
 # News
-* `11.2020` I join Laboratory for Artificial Intelligence in Design (AiDLab) in Hong Kong as a Research Scientist.
-* `10.2020` We receive the [ChinaGraph Best Dataset Award](https://sse.cuhk.edu.cn/en/article/755) for "DeepFashion3D".
-* `07.2020` I pass the oral defence of my Master dissertation.
-* `04.2020` Our paper is accepted to ECCV 2020.
-* `03.2019` I join The Chinese University of Hong Kong(Shenzhen) [SRIBD](http://www.sribd.cn/index.php/cn/) as a Research Assistant.
-* `12.2016` I join [State Key Laboratory of Integrated Services Networks](https://isn.xidian.edu.cn/index.htm) as a postgraduate student(Mphil).
-* `11.2015` I win the 'China National Scholarship'.
+* `11.2020` I joined Laboratory for Artificial Intelligence in Design (AiDLab) Hong Kong as a Research Scientist.
+* `10.2020` We received the [ChinaGraph Best Dataset Award](https://sse.cuhk.edu.cn/en/article/755) for "DeepFashion3D".
+* `07.2020` I passed the oral defence of my Master dissertation.
+* `04.2020` Our paper was accepted to ECCV 2020.
+* `03.2019` I joined The Chinese University of Hong Kong(Shenzhen) [SRIBD](http://www.sribd.cn/index.php/cn/) as a Research Assistant.
+* `12.2016` I joined [State Key Laboratory of Integrated Services Networks](https://isn.xidian.edu.cn/index.htm) as a postgraduate student(Mphil).
+* `11.2015` I won the 'China National Scholarship'.
 
 
 # Publications
