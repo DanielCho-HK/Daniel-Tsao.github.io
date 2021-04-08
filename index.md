@@ -1,7 +1,7 @@
 # welcome to my homepage
 ## Daniel Cho 
 <img src="./caoyu.png" width = "107.2" height = "64" alt="signature" align=center />
-<img src="./daniel.jpg" align='right' style='width:300 px; height:100 px' />
+<img src="./daniel.jpg" align='right' style='width:489.6 px; height:652.8 px' />
 
 
 
