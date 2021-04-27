@@ -23,7 +23,7 @@ I am a Research Engineer in [Laboratory for Artificial Intelligence in Design (A
 ![Image](./aidlab.png)
 
 # News
-* `11.2020` I joined Laboratory for Artificial Intelligence in Design (AiDLab) Hong Kong as a Research Scientist.
+* `11.2020` I joined Laboratory for Artificial Intelligence in Design (AiDLab) Hong Kong as a Research Engineer.
 * `10.2020` We received the [ChinaGraph Best Dataset Award](https://sse.cuhk.edu.cn/en/article/755) for "DeepFashion3D".
 * `07.2020` I passed the oral defence of my Master dissertation.
 * `04.2020` Our paper was accepted to ECCV 2020.
