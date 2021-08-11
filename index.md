@@ -9,7 +9,7 @@
 <div class="gird-containre">
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-auto" markdown="1">
-I am a Research Engineer in [Laboratory for Artificial Intelligence in Design (AiDLab)](https://www.polyu.edu.hk/cpa/excel/tc/201902/highlight/h1/index.html) Hong Kong, working with Prof. [Calvin Wong](https://www.polyu.edu.hk/itc/en/people/academic-staff/?itcsid=4). The research areas that I involved and interested include 3D Vision, Generative Algorithm and Fashion. In 2020, I completed my Mphil. degree from Xidian University under the supervision of Prof. [Rui Song](https://web.xidian.edu.cn/songrui/index.html). During my Mphil, I have visited the Chinese University of Hong Kong (Shenzhen) and Shenzhen Research Institute of Big Data as a visiting student supervised by Dr. [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/) 
+I am now a Research Assistant in The Hong Kong Polytechnic University. Previously I was a Research Assistant in [Laboratory for Artificial Intelligence in Design (AiDLab)](https://www.aidlab.hk/en/) Hong Kong, working with Prof. [Calvin Wong](https://www.polyu.edu.hk/itc/en/people/academic-staff/?itcsid=4). The research areas that I involved and interested include 3D Vision, Generative Algorithm and Fashion. In 2020, I completed my Mphil. degree from Xidian University under the supervision of Prof. [Rui Song](https://web.xidian.edu.cn/songrui/index.html). During my Mphil, I have visited the Chinese University of Hong Kong (Shenzhen) and Shenzhen Research Institute of Big Data as a visiting student supervised by Dr. [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/) 
   
 
 
@@ -20,10 +20,9 @@ I am a Research Engineer in [Laboratory for Artificial Intelligence in Design (A
 [choyudaniel@gmail.com](mailto:choyudaniel@gmail.com)
 
 
-![Image](./aidlab.png)
-
 # News
-* `11.2020` I joined Laboratory for Artificial Intelligence in Design (AiDLab) Hong Kong as a Research Engineer.
+* `08.2021` I joined The Hong Kong Polytechnic University as a Research Assistant.
+* `11.2020` I joined Laboratory for Artificial Intelligence in Design (AiDLab) Hong Kong as a Research Assistant.
 * `10.2020` We received the [ChinaGraph Best Dataset Award](https://sse.cuhk.edu.cn/en/article/755) for "DeepFashion3D".
 * `07.2020` I passed the oral defence of my Master dissertation.
 * `04.2020` Our paper was accepted to ECCV 2020.
