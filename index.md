@@ -2,10 +2,6 @@
 ## Daniel Cho 
 <!--<img src="./caoyu.png" width = "107.2" height = "64" alt="signature" align=center />-->
 
-
-
-
-
 <div class="gird-containre">
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-auto" markdown="1">
