@@ -1,6 +1,5 @@
 # welcome to my homepage
 ## Daniel Cho 
-<!--<img src="./caoyu.png" width = "107.2" height = "64" alt="signature" align=center />-->
 
 <div class="gird-containre">
 <div class="grid grid--p-2">
