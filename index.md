@@ -1,4 +1,4 @@
-# welcome to my homepage
+# Welcome to my homepage
 ## Daniel Cho 
 
 <div class="gird-containre">
