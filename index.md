@@ -10,9 +10,9 @@ I am now a Research Assistant in The Hong Kong Polytechnic University. Previousl
 
 
 
-[GoogleScholar](https://scholar.google.com.hk/citations?user=jkEWQIYAAAAJ&hl=zh-CN)
-[GitHub](https://github.com/DanielCho-HK)
-[choyudaniel@gmail.com](mailto:choyudaniel@gmail.com)
+[GoogleScholar](https://scholar.google.com.hk/citations?user=jkEWQIYAAAAJ&hl=zh-CN) /
+[GitHub](https://github.com/DanielCho-HK) /
+[choyudaniel@gmail.com](mailto:choyudaniel@gmail.com) /
 
 
 # News
