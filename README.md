@@ -1,2 +1,1 @@
-# danielcho.github.io
-This is Cho Yu Daniel's homepage
+This is Daniel TSAO's homepage
