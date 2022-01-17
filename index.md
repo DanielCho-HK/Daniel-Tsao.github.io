@@ -10,7 +10,7 @@ I am now the first year PhD student in The Hong Kong Polytechnic University. Pre
 
 
 
-[GoogleScholar](https://scholar.google.com.hk/citations?user=jkEWQIYAAAAJ&hl=zh-CN) /
+[Google Scholar](https://scholar.google.com.hk/citations?user=jkEWQIYAAAAJ&hl=zh-CN) /
 [GitHub](https://github.com/DanielCho-HK) /
 [choyudaniel@gmail.com](mailto:choyudaniel@gmail.com) 
 
