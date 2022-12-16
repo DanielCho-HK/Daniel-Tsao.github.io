@@ -10,8 +10,8 @@ I am now the first year PhD student in The Hong Kong Polytechnic University. Pre
 
 
 
-[Google Scholar](https://scholar.google.com.hk/citations?user=jkEWQIYAAAAJ&hl=zh-CN) /
-[GitHub](https://github.com/DanielCho-HK) /
+[Google Scholar](https://scholar.google.com.hk/citations?user=jkEWQIYAAAAJ&hl=zh-CN) \\
+[GitHub](https://github.com/DanielCho-HK) \\
 [choyudaniel@gmail.com](mailto:choyudaniel@gmail.com) 
 
 
@@ -23,7 +23,7 @@ I am now the first year PhD student in The Hong Kong Polytechnic University. Pre
 * `07.2020` I passed the oral defence of my Master dissertation.
 * `04.2020` Our paper was accepted to ECCV 2020.
 * `03.2019` I joined The Chinese University of Hong Kong(Shenzhen) [SRIBD](http://www.sribd.cn/) as a Research Assistant.
-* `12.2016` I joined [State Key Laboratory of Integrated Services Networks](https://isn.xidian.edu.cn/index.htm) as a postgraduate student(Master).
+* `12.2016` I joined [State Key Laboratory of Integrated Services Networks](https://isn.xidian.edu.cn/index.htm) as a postgraduate student (Master).
 * `11.2015` I won the 'China National Scholarship'.
 
 
