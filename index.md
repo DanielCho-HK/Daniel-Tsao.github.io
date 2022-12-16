@@ -4,14 +4,14 @@
 <div class="gird-containre">
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-auto" markdown="1">
-I am now the first year PhD student in The Hong Kong Polytechnic University. Previously I was a Research Assistant in [Laboratory for Artificial Intelligence in Design (AiDLab)](https://www.aidlab.hk/en/) Hong Kong, working with Prof [Calvin Wong](https://research.polyu.edu.hk/en/persons/wai-keung-wong-2). The research areas that I involved and interested include Computational Arts, Computer Vision and Graphics. In 2020, I completed my Master degree from Xidian University under the supervision of Prof [Rui Song](https://web.xidian.edu.cn/songrui/index.html). During my Master, I have visited the Chinese University of Hong Kong (Shenzhen) and Shenzhen Research Institute of Big Data as a visiting student supervised by Dr [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/).
+I am now the second year PhD student in The Hong Kong Polytechnic University. Previously I was a Research Assistant in [Laboratory for Artificial Intelligence in Design (AiDLab)](https://www.aidlab.hk/en/) Hong Kong, working with Prof [Calvin Wong](https://research.polyu.edu.hk/en/persons/wai-keung-wong-2). The research areas that I involved and interested include Computational Arts, Computer Vision and Graphics. In 2020, I completed my Master degree from Xidian University under the supervision of Prof [Rui Song](https://web.xidian.edu.cn/songrui/index.html). During my Master, I have visited the Chinese University of Hong Kong (Shenzhen) and Shenzhen Research Institute of Big Data as a visiting student supervised by Dr [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/).
   
 
 
 
 
-[Google Scholar](https://scholar.google.com.hk/citations?user=jkEWQIYAAAAJ&hl=zh-CN) 
-[GitHub](https://github.com/DanielCho-HK) 
+[Google Scholar](https://scholar.google.com.hk/citations?user=jkEWQIYAAAAJ&hl=zh-CN)&nbsp;
+[GitHub](https://github.com/DanielCho-HK)&nbsp;
 [choyudaniel@gmail.com](mailto:choyudaniel@gmail.com) 
 
 
