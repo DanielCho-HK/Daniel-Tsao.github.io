@@ -16,6 +16,7 @@ I am now the second year PhD student in The Hong Kong Polytechnic University. Pr
 
 
 # News
+* `03.2023` Our paper was accpeted to ICME 2023.
 * `01.2022` I registered as a PhD student in The Hong Kong Polytechnic University supervised by Dr [Tracy Mok](https://research.polyu.edu.hk/en/persons/pik-yin-mok).  
 * `08.2021` I joined The Hong Kong Polytechnic University as a Research Assistant.
 * `11.2020` I joined Laboratory for Artificial Intelligence in Design (AiDLab) Hong Kong as a Research Assistant.
