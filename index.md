@@ -19,11 +19,11 @@ I am now the second year PhD student in The Hong Kong Polytechnic University. Pr
 * `03.2023` Our paper was accpeted to ICME 2023.
 * `01.2022` I registered as a PhD student in The Hong Kong Polytechnic University supervised by Dr [Tracy Mok](https://research.polyu.edu.hk/en/persons/pik-yin-mok).  
 * `08.2021` I joined The Hong Kong Polytechnic University as a Research Assistant.
-* `11.2020` I joined Laboratory for Artificial Intelligence in Design (AiDLab) Hong Kong as a Research Assistant.
-* `10.2020` We received the [ChinaGraph Best Dataset Award](https://sse.cuhk.edu.cn/en/article/755) for "DeepFashion3D".
+* `11.2020` I joined Laboratory for Artificial Intelligence in Design (AiDLab) as a Research Assistant.
+* `10.2020` We received the [Chinagraph Award for Graphical Open Source Datasets](https://sse.cuhk.edu.cn/en/article/755) for "DeepFashion3D".
 * `07.2020` I passed the oral defence of my Master dissertation.
 * `04.2020` Our paper was accepted to ECCV 2020.
-* `03.2019` I joined The Chinese University of Hong Kong(Shenzhen) [SRIBD](http://www.sribd.cn/) as a Research Assistant.
+* `03.2019` I joined The Chinese University of Hong Kong (Shenzhen) and [SRIBD](http://www.sribd.cn/) as a Research Assistant.
 * `12.2016` I joined [State Key Laboratory of Integrated Services Networks](https://isn.xidian.edu.cn/index.htm) as a postgraduate student (Master).
 * `11.2015` I won the 'China National Scholarship'.
 
