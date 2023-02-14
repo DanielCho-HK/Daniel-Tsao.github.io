@@ -24,7 +24,8 @@ I am now the second year PhD student in The Hong Kong Polytechnic University. Th
 * `07.2020` I passed the oral defence of my Master dissertation.
 * `04.2020` Our paper was accepted to ECCV 2020.
 * `03.2019` I joined The Chinese University of Hong Kong (Shenzhen) and [SRIBD](http://www.sribd.cn/) as a Research Assistant.
-* `12.2016` I joined [State Key Laboratory of Integrated Services Networks](https://isn.xidian.edu.cn/index.htm) as a postgraduate student (Master).
+* `09.2017` I joined [State Key Laboratory of Integrated Services Networks](https://isn.xidian.edu.cn/index.htm) as a postgraduate student (Master).
+* `07.2017` I graduated from Qingdao Institute of Technology.
 * `11.2015` I won the 'China National Scholarship'.
 
 
