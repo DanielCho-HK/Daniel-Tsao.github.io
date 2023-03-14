@@ -16,6 +16,7 @@ I am now the second year PhD student in The Hong Kong Polytechnic University. Th
 
 
 # News
+* `03.2023` Our paper was accepted to ICME 2023.
 * `01.2022` I registered as a PhD student in The Hong Kong Polytechnic University supervised by Dr [Tracy Mok](https://research.polyu.edu.hk/en/persons/pik-yin-mok).  
 * `08.2021` I joined The Hong Kong Polytechnic University as a Research Assistant.
 * `11.2020` I joined Laboratory for Artificial Intelligence in Design (AiDLab) as a Research Assistant.
@@ -29,5 +30,6 @@ I am now the second year PhD student in The Hong Kong Polytechnic University. Th
 
 
 # Publications
+***Yu Cao**, Hao Tian, P.Y. Mok. Attention-Aware Anime Line Drawing Colorization. ICME 2023*
 * Heming Zhu, **Yu Cao**, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, and Xiaoguang Han. Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images. ECCV 2020 (Oral Presentation)  [\[Project\]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
 
