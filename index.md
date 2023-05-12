@@ -31,7 +31,7 @@ I am now the second year PhD student in The Hong Kong Polytechnic University. Th
 
 
 # Publications
-* Hao Tian, **Yu Cao**, P. Y. Mok. DETR-Based Layered Clothing Segmentation and Fine-Grained Attribute Recognition. CVPRW 2023
+* Hao Tian, **Yu Cao**, P. Y. Mok. DETR-Based Layered Clothing Segmentation and Fine-Grained Attribute Recognition. CVPRW 2023 (Poster Presentation)
 * **Yu Cao**, Hao Tian, P. Y. Mok. Attention-Aware Anime Line Drawing Colorization. ICME 2023
 * Heming Zhu, **Yu Cao**, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, and Xiaoguang Han. Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images. ECCV 2020 (Oral Presentation)  [\[Project\]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
 
