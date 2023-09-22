@@ -31,7 +31,7 @@ I am now the PhD candidate in The Hong Kong Polytechnic University. The research
 
 
 # Publications
-* **Yu Cao**, Xiangqiao Meng, P. Y. Mok, Tong-Yee Lee, Xueting Liu, Ping Li. AnimeDiffusion: Expressive Anime Drawing Colorization via Hybrid Diffusions. TVCG 2023 [\[Project\]]([https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/](https://xq-meng.github.io/projects/AnimeDiffusion) 
+* **Yu Cao**, Xiangqiao Meng, P. Y. Mok, Tong-Yee Lee, Xueting Liu, Ping Li. AnimeDiffusion: Expressive Anime Drawing Colorization via Hybrid Diffusions. TVCG 2023 [\[Project\]](https://xq-meng.github.io/projects/AnimeDiffusion)
 * Hao Tian, **Yu Cao**, P. Y. Mok. DETR-Based Layered Clothing Segmentation and Fine-Grained Attribute Recognition. CVPRW 2023 (Poster Presentation)
 * **Yu Cao**, Hao Tian, P. Y. Mok. Attention-Aware Anime Line Drawing Colorization. ICME 2023 (Poster Presentation)
 * Heming Zhu, **Yu Cao**, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, and Xiaoguang Han. Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images. ECCV 2020 (Oral Presentation)  [\[Project\]](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
