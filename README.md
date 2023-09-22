@@ -1,1 +1,1 @@
-This is Daniel Tsao's homepage
+This is Daniel's homepage
