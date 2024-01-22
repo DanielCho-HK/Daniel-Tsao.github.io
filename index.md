@@ -16,7 +16,7 @@ I am now a PhD candidate at The Hong Kong Polytechnic University. The research a
 
 
 # News
-* `12.2023` Our paper was accepted to TVCG 2023.
+* `12.2023` Our paper was accepted to TVCG 2024.
 * `04.2023` Our paper was accepted to CVPRW 2023.
 * `03.2023` Our paper was accepted to ICME 2023.
 * `01.2022` I registered as a PhD student at The Hong Kong Polytechnic University supervised by Dr [Tracy Mok](https://research.polyu.edu.hk/en/persons/pik-yin-mok).  
@@ -32,7 +32,7 @@ I am now a PhD candidate at The Hong Kong Polytechnic University. The research a
 
 
 # Publications
-* **Yu Cao**, Xiangqiao Meng, P. Y. Mok, Tong-Yee Lee, Xueting Liu, and Ping Li. AnimeDiffusion: Anime Diffusion Colorization. TVCG 2023 [Project](https://xq-meng.github.io/projects/AnimeDiffusion)
+* **Yu Cao**, Xiangqiao Meng, P. Y. Mok, Tong-Yee Lee, Xueting Liu, and Ping Li. AnimeDiffusion: Anime Diffusion Colorization. TVCG 2024 [Project](https://xq-meng.github.io/projects/AnimeDiffusion)
 * Hao Tian, **Yu Cao**, and P. Y. Mok. DETR-Based Layered Clothing Segmentation and Fine-Grained Attribute Recognition. CVPRW 2023 (Poster Presentation)
 * **Yu Cao**, Hao Tian, and P. Y. Mok. Attention-Aware Anime Line Drawing Colorization. ICME 2023 (Poster Presentation)
 * Heming Zhu, **Yu Cao**, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, and Xiaoguang Han. Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images. ECCV 2020 (Oral Presentation)  [Project](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
